@@ -35,7 +35,7 @@
     "passport-gitlab2": "^5.0.0",
     "pg": "^7.8.1",
     "promise-delay-ts": "^1.0.0",
-    "qs": "^6.7.0",
+    "qs": "^6.7.3",
     "runtypes": "^3.1.2",
     "typeorm": "^0.2.14"
   },
