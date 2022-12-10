@@ -29,7 +29,7 @@
     "axios": "^0.18.0",
     "circular-json": "^0.5.9",
     "date-fns": "^1.30.1",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "form-data": "^2.3.3",
     "passport": "^0.4.0",
     "passport-gitlab2": "^5.0.0",
